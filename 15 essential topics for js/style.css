@@ -1,0 +1,14 @@
+div{
+    background-color: #F1A7A7;
+    color:black;
+    width: 50%;
+    text-align:justify;
+    font-weight: bold;
+    margin:15px;
+    padding: 5px;
+}
+
+.checked{
+    background-color: #a3c585;
+}
+
