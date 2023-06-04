@@ -1,9 +1,0 @@
-var result = confirm("Are you sure you want to delete this item?");
-
-if (result) {
-  // User clicked OK
-  console.log("Item deleted");
-} else {
-  // User clicked Cancel
-  console.log("Deletion cancelled");
-}
